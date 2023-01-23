@@ -1,4 +1,4 @@
-# rust-client
+# Rust-Client
 
 Rust client for Qdrant vector search engine.
 
